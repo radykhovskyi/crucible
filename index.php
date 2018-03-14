@@ -1,3 +1,3 @@
 <?php
 
-echo 'Initial';
+echo 'Initial commit message';
